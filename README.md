@@ -1,9 +1,11 @@
-# my-expensive-tracker
-Expense tracker feito para uso próprio
+# CashD
+Expensive tracker feito em rust, insipirado por ezbookkeeping feito por "mayswind".
 
 Em desenvolvimento...
 
-Mas ele será feito para que você rode um servidor em uma maquina separada e então acesse os apps respectivamente!
+Mas ele será feito para que você rode um servidor em uma maquina separada e então acesse os apps!
+
+
 
 # Funcionalidades:
 
@@ -66,6 +68,3 @@ Mas ele será feito para que você rode um servidor em uma maquina separada e en
 | `freezed` | Models imutáveis, evita bugs de estado |
 | `json_serializable` | Geração de código para parsing JSON |
 
-# Inspiração / Inspiration
-
-https://github.com/mayswind/ezbookkeeping
